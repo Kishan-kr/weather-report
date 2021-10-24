@@ -1,0 +1,11 @@
+<svg width="123" height="123" viewBox="0 0 123 123" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M89 61.5C89 76.6878 76.6878 89 61.5 89C46.3122 89 34 76.6878 34 61.5C34 46.3122 46.3122 34 61.5 34C76.6878 34 89 46.3122 89 61.5ZM39.2563 61.5C39.2563 73.7849 49.2151 83.7437 61.5 83.7437C73.7849 83.7437 83.7437 73.7849 83.7437 61.5C83.7437 49.2151 73.7849 39.2563 61.5 39.2563C49.2151 39.2563 39.2563 49.2151 39.2563 61.5Z" fill="#979797" fill-opacity="0.75"/>
+<line x1="63" y1="1.31134e-07" x2="63" y2="28" stroke="#979797" stroke-opacity="0.75" stroke-width="6"/>
+<line x1="96.435" y1="27.1213" x2="85.1213" y2="38.435" stroke="#979797" stroke-opacity="0.75" stroke-width="6"/>
+<line x1="27.1213" y1="22.8787" x2="38.435" y2="34.1924" stroke="#979797" stroke-opacity="0.75" stroke-width="6"/>
+<line x1="85.1213" y1="86.8787" x2="96.435" y2="98.1924" stroke="#979797" stroke-opacity="0.75" stroke-width="6"/>
+<line x1="35.435" y1="85.1213" x2="24.1213" y2="96.435" stroke="#979797" stroke-opacity="0.75" stroke-width="6"/>
+<line x1="95" y1="59" x2="123" y2="59" stroke="#979797" stroke-opacity="0.75" stroke-width="6"/>
+<line y1="59" x2="28" y2="59" stroke="#979797" stroke-opacity="0.75" stroke-width="6"/>
+<line x1="63" y1="95" x2="63" y2="123" stroke="#979797" stroke-opacity="0.75" stroke-width="6"/>
+</svg>
