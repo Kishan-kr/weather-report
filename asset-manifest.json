@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/weather-report/static/css/main.1df447aa.chunk.css",
-    "main.js": "/weather-report/static/js/main.28ecf028.chunk.js",
-    "main.js.map": "/weather-report/static/js/main.28ecf028.chunk.js.map",
+    "main.css": "/weather-report/static/css/main.cc2f69ec.chunk.css",
+    "main.js": "/weather-report/static/js/main.64584ab7.chunk.js",
+    "main.js.map": "/weather-report/static/js/main.64584ab7.chunk.js.map",
     "runtime-main.js": "/weather-report/static/js/runtime-main.7c007523.js",
     "runtime-main.js.map": "/weather-report/static/js/runtime-main.7c007523.js.map",
-    "static/js/2.f432e132.chunk.js": "/weather-report/static/js/2.f432e132.chunk.js",
-    "static/js/2.f432e132.chunk.js.map": "/weather-report/static/js/2.f432e132.chunk.js.map",
+    "static/js/2.adc3bcb0.chunk.js": "/weather-report/static/js/2.adc3bcb0.chunk.js",
+    "static/js/2.adc3bcb0.chunk.js.map": "/weather-report/static/js/2.adc3bcb0.chunk.js.map",
     "static/js/3.5af9cc48.chunk.js": "/weather-report/static/js/3.5af9cc48.chunk.js",
     "static/js/3.5af9cc48.chunk.js.map": "/weather-report/static/js/3.5af9cc48.chunk.js.map",
     "index.html": "/weather-report/index.html",
-    "static/css/main.1df447aa.chunk.css.map": "/weather-report/static/css/main.1df447aa.chunk.css.map",
-    "static/js/2.f432e132.chunk.js.LICENSE.txt": "/weather-report/static/js/2.f432e132.chunk.js.LICENSE.txt",
-    "static/media/BgLogo.1e4359a9.svg": "/weather-report/static/media/BgLogo.1e4359a9.svg",
+    "static/css/main.cc2f69ec.chunk.css.map": "/weather-report/static/css/main.cc2f69ec.chunk.css.map",
+    "static/js/2.adc3bcb0.chunk.js.LICENSE.txt": "/weather-report/static/js/2.adc3bcb0.chunk.js.LICENSE.txt",
     "static/media/LoadingCloud.1e77a8bf.svg": "/weather-report/static/media/LoadingCloud.1e77a8bf.svg",
     "static/media/Sun.c0bb79a5.svg": "/weather-report/static/media/Sun.c0bb79a5.svg",
+    "static/media/App.css": "/weather-report/static/media/bg.22ce726a.jpg",
     "static/media/cloud.e44b9adb.png": "/weather-report/static/media/cloud.e44b9adb.png",
     "static/media/weatherLogo.d20f24d0.svg": "/weather-report/static/media/weatherLogo.d20f24d0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7c007523.js",
-    "static/js/2.f432e132.chunk.js",
-    "static/css/main.1df447aa.chunk.css",
-    "static/js/main.28ecf028.chunk.js"
+    "static/js/2.adc3bcb0.chunk.js",
+    "static/css/main.cc2f69ec.chunk.css",
+    "static/js/main.64584ab7.chunk.js"
   ]
 }
